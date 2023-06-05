@@ -1,6 +1,6 @@
 # Billboardify
  
-### Create a Spotify playlist from Billboard top 100 songs of a specific year.
+### A web scraper application for creating Spotify playlist from Billboard top 100 songs of a specific year.
  
 ## Project Description
 This project creates a Spotify playlist of the top 100 songs from the Billboard chart of a user-specified year. The project uses the BeautifulSoup and requests libraries to scrape the Billboard website and retrieve the song names of the top 100 songs of a given year. Then, using the Spotify API and spotipy library, the project searches for the songs in the Spotify database and adds them to a new or existing playlist on the user's Spotify account.
